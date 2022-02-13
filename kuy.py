@@ -18,7 +18,7 @@ os.system("clear")
 
 print ("\tยิงเบอร์ 1.0")
 
-print ("      YouTube: \033[1;96mFiveZone CH\033[1;97m")
+print ("      YouTube: \033[1;96mรับเเฮก TV\033[1;97m")
 
 print ("\033[1;97m*     ผู้สนับสนุน:\033[1;92m SCK \033[1;97m      *")
 
